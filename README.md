@@ -7,7 +7,17 @@ We use Google Firebase Realtime Database to store all information curators gener
 ## Install project
 1. install node version v10.16.3
 2. Install npm & & yarn & grunt-cli (globally) 
-3. yarn install
+3. yarn install 
+
+
+## Setup Firebase
+- Create firebase project for oncokb
+- import one-test-genes.json into the database  (attached below)
+- improt database-rules.json (attached below)
+- Add user under the User collection.
+
+    - [database-rules.json.zip](https://github.com/tiger-codes/curation-platform/files/9154586/database-rules.json.zip) 
+    - [one-test-genes.json.zip](https://github.com/tiger-codes/curation-platform/files/9154587/one-test-genes.json.zip)
 
 ## config.json setting
 Create config.json file under /app/data and paste following json in it replace firebaseConfig with your firebase config
