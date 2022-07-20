@@ -5,8 +5,8 @@ OncoKB Curation Platform is built with lots of great open source JS libraries. A
 We use Google Firebase Realtime Database to store all information curators generated.
 
 ## Install project
-1. install node version v10.16.3 
-2.Install npm & & yarn & grunt-cli (globally)
+1. install node version v10.16.3
+2. Install npm & & yarn & grunt-cli (globally) 
 3. yarn install
 
 ## config.json setting
